@@ -1,14 +1,10 @@
-<?php
-
- get_header();
+<?php 
+get_header();
 
  ?>
 
-	<div class="content">
-		content
-	</div>
+	<content>content</content>
 
-<?php 
+ <?php
 
-get_footer(); 
-	
+ get_footer(); 
